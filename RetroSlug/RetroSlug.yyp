@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "ee28f9dc-68eb-45a5-a573-3ea9f0e852d9",
+            "Value": {
+                "id": "12befaa7-21ff-446b-b0e0-d70f169b73e5",
+                "resourcePath": "objects\\oFullScreenButton\\oFullScreenButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "2c4ac37b-1eb0-4ca3-8560-57fcad4aee80",
