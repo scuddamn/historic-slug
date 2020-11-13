@@ -2,7 +2,7 @@
     "id": "b78d7b03-365c-4511-a092-dee9537e712c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oTextfield",
+    "name": "oTextfield1",
     "eventList": [
         {
             "id": "2ed8de57-889a-42ac-b3d4-c94b664fbd6f",

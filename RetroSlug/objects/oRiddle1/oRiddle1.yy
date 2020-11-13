@@ -2,7 +2,7 @@
     "id": "c7ddd0e6-0808-476b-9c95-e60624733fb9",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oRiddle",
+    "name": "oRiddle1",
     "eventList": [
         {
             "id": "8ce6b67f-0411-463e-9478-1b4829f7d37c",

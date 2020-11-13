@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "2a7d1f47-6bda-467c-bbe2-3e96a2fad341",
+            "Value": {
+                "id": "fa91e8cc-9d08-4a7a-b0d0-363bf950d612",
+                "resourcePath": "objects\\oRiddle2\\oRiddle2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2c2d2bf0-e4cd-4f38-bfa2-f3c43fcde5f6",
             "Value": {
                 "id": "b8fed136-371e-403d-a958-d35d9b4c2d07",
@@ -83,6 +91,14 @@
             "Value": {
                 "id": "aec4677f-860c-4502-aa2b-b67478a01c65",
                 "resourcePath": "objects\\oTransition\\oTransition.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "32a364dd-5bb2-401a-a8e0-9f84190bebf5",
+            "Value": {
+                "id": "7aca63df-ba00-4368-9c99-cc3589671b73",
+                "resourcePath": "objects\\oTextfield2\\oTextfield2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -215,6 +231,14 @@
             }
         },
         {
+            "Key": "a06d4e38-9a9d-4869-b4f2-69ac11698a83",
+            "Value": {
+                "id": "d50fd3eb-d635-47af-828b-fec56ea521c7",
+                "resourcePath": "objects\\oRiddle3\\oRiddle3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
             "Value": {
                 "id": "64a55714-7123-482c-8ede-03c5956d7997",
@@ -258,7 +282,7 @@
             "Key": "b78d7b03-365c-4511-a092-dee9537e712c",
             "Value": {
                 "id": "e731fdd7-be7b-4be9-8b03-a25f70753dc0",
-                "resourcePath": "objects\\oTextfield\\oTextfield.yy",
+                "resourcePath": "objects\\oTextfield1\\oTextfield1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -274,7 +298,7 @@
             "Key": "c7ddd0e6-0808-476b-9c95-e60624733fb9",
             "Value": {
                 "id": "7a8d5842-b323-42fc-bb85-0e78e44e7cec",
-                "resourcePath": "objects\\oRiddle\\oRiddle.yy",
+                "resourcePath": "objects\\oRiddle1\\oRiddle1.yy",
                 "resourceType": "GMObject"
             }
         },
