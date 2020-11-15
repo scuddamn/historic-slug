@@ -3,6 +3,7 @@
 
 if (keyboard_string == "ice") {
      global.JellySolved = true;
+	 obscure = -1;
 } else {
-     // what to do if the text is wrong
+     obscure = 1;
 }

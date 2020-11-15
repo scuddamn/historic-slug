@@ -6,3 +6,5 @@ limit = 25;
 cursor = "|";
 delay = 20;
 alarm[0] = delay;
+
+obscure = 0;

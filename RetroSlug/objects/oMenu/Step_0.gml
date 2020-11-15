@@ -26,6 +26,7 @@ if(menu_x > gui_width + 250) && (menu_committed != -1)
 	switch (menu_committed) 
 	{
 		case 2: default: SlideTransition(TRANS_MODE.GOTO, rGallery); menu_committed = -1; show_debug_message("transition"); break;
+		case 1: SlideTransition(TRANS_MODE.GOTO, rInstructions); menu_committed = -1; break;
 		case 0: game_end(); break;
 	}
 }

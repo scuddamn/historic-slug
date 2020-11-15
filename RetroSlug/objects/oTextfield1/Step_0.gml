@@ -6,3 +6,11 @@ if (string_length(keyboard_string)<limit)
 else
     keyboard_string = message;
 	
+if (obscure == 1){
+	oJellyObscure.image_alpha += 1/room_speed;
+}
+
+
+if(obscure == -1){
+	oJellyObscure.image_alpha -= 1/room_speed;
+}

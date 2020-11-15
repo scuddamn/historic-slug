@@ -31,11 +31,27 @@
     },
     "resources": [
         {
+            "Key": "00433aeb-622e-4700-8440-8898f7487be4",
+            "Value": {
+                "id": "16c4fa64-b461-4f3f-b355-41813e204c83",
+                "resourcePath": "objects\\oJellyObscure\\oJellyObscure.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "01dd986b-ccf0-4182-baa8-90ad4c00003d",
             "Value": {
                 "id": "31b68451-6f30-4eca-bfd6-0465983cba95",
                 "resourcePath": "sprites\\sSquidBG3\\sSquidBG3.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "04df3ef3-7fa8-498c-b425-feb1df4dcd46",
+            "Value": {
+                "id": "2394b6c5-7817-4aac-825f-587d56eae72b",
+                "resourcePath": "rooms\\rInstructions\\rInstructions.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -71,11 +87,27 @@
             }
         },
         {
+            "Key": "21e864da-72cf-4cdf-b86f-914ff5a089c4",
+            "Value": {
+                "id": "e1345a1d-0a14-4d6a-9136-677d579586d2",
+                "resourcePath": "sprites\\sQuitButton\\sQuitButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2255ca44-a7bb-4b85-adc2-1a0ecb5c8397",
             "Value": {
                 "id": "a7d95fdd-e48c-48fe-b468-b8721366bb90",
                 "resourcePath": "rooms\\rDragon\\rDragon.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "23b42315-697b-4920-8ba4-3746b4f43e27",
+            "Value": {
+                "id": "4cef8407-f0f8-4412-b22f-018b3857d893",
+                "resourcePath": "sprites\\sJellyObscure\\sJellyObscure.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -106,7 +138,7 @@
             "Key": "2a7d1f47-6bda-467c-bbe2-3e96a2fad341",
             "Value": {
                 "id": "fa91e8cc-9d08-4a7a-b0d0-363bf950d612",
-                "resourcePath": "objects\\oRiddle2\\oRiddle2.yy",
+                "resourcePath": "objects\\oDragonRiddleA\\oDragonRiddleA.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -131,6 +163,14 @@
             "Value": {
                 "id": "aec4677f-860c-4502-aa2b-b67478a01c65",
                 "resourcePath": "objects\\oTransition\\oTransition.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "30abafa7-9675-4ca1-b3fe-02c53b4d1489",
+            "Value": {
+                "id": "c219eced-af50-40c1-9192-2dc4d8e77c0f",
+                "resourcePath": "objects\\oContinueButton\\oContinueButton.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -172,6 +212,22 @@
                 "id": "a7f03327-0071-47dc-9bda-ca0c9d2556b1",
                 "resourcePath": "sprites\\sJellyBG3\\sJellyBG3.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "352078e6-dde1-4586-bdc3-6596b61eb759",
+            "Value": {
+                "id": "bd1a93be-b1d4-4d59-b481-83f2f1d22c5b",
+                "resourcePath": "objects\\oInstructions\\oInstructions.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3a5713ae-bd61-4832-83bf-9ee9f715da1f",
+            "Value": {
+                "id": "9a4d1797-1484-40d4-b6ac-13379a7815c2",
+                "resourcePath": "objects\\oQuitButton\\oQuitButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -244,6 +300,14 @@
                 "id": "ac5c8207-1fad-4539-b8e6-a726c6e6dddd",
                 "resourcePath": "views\/59668ffd-ab8b-4217-9841-de1d0c8e064c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5c753b44-efd6-402d-83ba-4a72a784e086",
+            "Value": {
+                "id": "7da77ec2-b5d3-47f5-87ab-bc85a5e2a0a1",
+                "resourcePath": "fonts\\fInstructions\\fInstructions.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -359,11 +423,35 @@
             }
         },
         {
+            "Key": "7812de22-bbeb-4438-8d86-c19a003bf621",
+            "Value": {
+                "id": "44ba5b97-d406-444d-9b1a-9432cd7fc441",
+                "resourcePath": "sprites\\sDragonObscure\\sDragonObscure.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "796fbeac-0fe9-4814-bd14-a9191869b470",
+            "Value": {
+                "id": "5321785c-2eb3-4920-a922-f693ad244395",
+                "resourcePath": "objects\\oDragonObscure\\oDragonObscure.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7ac8ffcb-db32-4f2d-bda5-d3d8d0ac79fb",
             "Value": {
                 "id": "2f3e7434-30f2-4c85-b27a-5591b2059071",
                 "resourcePath": "sounds\\sndMusic\\sndMusic.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "7b81340f-873f-46b3-8685-21d0cc0dc814",
+            "Value": {
+                "id": "bd375608-5645-424e-a2fd-e05e4d599a1d",
+                "resourcePath": "objects\\oJellyRiddleC\\oJellyRiddleC.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -383,11 +471,27 @@
             }
         },
         {
+            "Key": "7e82ccd7-a82f-4c46-add9-9329ccc63fe5",
+            "Value": {
+                "id": "7972956b-a43c-442c-877c-fa50ba3066a3",
+                "resourcePath": "objects\\oDragonRiddleB\\oDragonRiddleB.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "825ae108-25ff-467b-b2fb-040114a24394",
             "Value": {
                 "id": "16ec334f-019a-4be3-bfb8-cca6194cc097",
                 "resourcePath": "views\/825ae108-25ff-467b-b2fb-040114a24394.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "834bda2c-bf16-42b3-8517-bd463a89e537",
+            "Value": {
+                "id": "3e0006c4-f56e-4f15-8507-7b83ed573c2d",
+                "resourcePath": "sprites\\sRayObscure\\sRayObscure.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -503,6 +607,14 @@
             }
         },
         {
+            "Key": "a1a2c3dc-efe2-475b-81f3-5a4afa2c1fc4",
+            "Value": {
+                "id": "23db0f41-50a8-45f9-bf41-bf9eac0bef0d",
+                "resourcePath": "objects\\oDragonRiddleC\\oDragonRiddleC.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a1c7bdfb-975b-4e31-8230-20eedd019b6c",
             "Value": {
                 "id": "08dbea7c-01da-455f-b9a9-31f62e092cf5",
@@ -519,10 +631,26 @@
             }
         },
         {
+            "Key": "a4c02220-1aa0-4090-bf59-bb3797dcf190",
+            "Value": {
+                "id": "05b7c445-0463-45dd-87d9-52a6bc0f12b0",
+                "resourcePath": "fonts\\fRiddle\\fRiddle.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "a62c13e3-cea1-4ec7-81fe-ddfac71c6731",
             "Value": {
                 "id": "080a70f9-bc63-4d10-a465-e29caf412b28",
                 "resourcePath": "sprites\\sDragonBG2\\sDragonBG2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a8e59021-7929-47e9-a7ce-ae301287e9b6",
+            "Value": {
+                "id": "9df30486-c568-4f8c-957e-7bc02d761f56",
+                "resourcePath": "sprites\\sSquidObscure\\sSquidObscure.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -634,7 +762,7 @@
             "Key": "c7ddd0e6-0808-476b-9c95-e60624733fb9",
             "Value": {
                 "id": "7a8d5842-b323-42fc-bb85-0e78e44e7cec",
-                "resourcePath": "objects\\oRiddle1\\oRiddle1.yy",
+                "resourcePath": "objects\\oJellyRiddleA\\oJellyRiddleA.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -660,6 +788,14 @@
                 "id": "9e54d960-6031-4989-b0c4-236561e0bee2",
                 "resourcePath": "sprites\\sPaintingTemp\\sPaintingTemp.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cf368bc8-2dc8-4dcb-8ef1-9634c2065cd0",
+            "Value": {
+                "id": "e3eeb28e-ccaa-4838-a7ed-d4e7dcc5d58a",
+                "resourcePath": "objects\\oJellyRiddleB\\oJellyRiddleB.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -735,6 +871,14 @@
             }
         },
         {
+            "Key": "e3f4ed76-2453-45d0-9268-f3df018932a3",
+            "Value": {
+                "id": "fa6563f1-7da2-4c15-b782-6216725eb6a6",
+                "resourcePath": "objects\\oJellyRiddleD\\oJellyRiddleD.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "89874043-2696-4f03-90aa-b92839548b85",
@@ -747,6 +891,14 @@
             "Value": {
                 "id": "2638570e-05e0-47b4-89b0-8a7eb5678b16",
                 "resourcePath": "sprites\\sRayGallerySOLVED\\sRayGallerySOLVED.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e6961da6-305e-4389-b6a6-112241076316",
+            "Value": {
+                "id": "f1288a2d-f232-47d1-8266-7ab4aec2888c",
+                "resourcePath": "sprites\\sContButton\\sContButton.yy",
                 "resourceType": "GMSprite"
             }
         },
