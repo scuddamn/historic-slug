@@ -1,28 +1,28 @@
 {
-    "id": "8815a849-fc6e-41ab-a88f-74070b7f357c",
+    "id": "c2a74aae-1d1f-43a4-b804-f58fa9771a11",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oRayGallery",
+    "name": "oJellyButton",
     "eventList": [
         {
-            "id": "fe89cf8e-9c40-484a-9a3b-2ba1c3a39735",
+            "id": "bdfc64d8-4df8-4243-80d6-1db846ba8262",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 4,
             "eventtype": 6,
-            "m_owner": "8815a849-fc6e-41ab-a88f-74070b7f357c"
+            "m_owner": "c2a74aae-1d1f-43a4-b804-f58fa9771a11"
         },
         {
-            "id": "f46662f4-47ba-4627-8d60-cca59b763014",
+            "id": "b0767614-c411-4cdb-a8d3-100708f30607",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "8815a849-fc6e-41ab-a88f-74070b7f357c"
+            "m_owner": "c2a74aae-1d1f-43a4-b804-f58fa9771a11"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "23bb662a-dcbc-4d45-8251-e4878850de74",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

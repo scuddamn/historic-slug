@@ -263,6 +263,22 @@
             }
         },
         {
+            "Key": "64142934-2b0e-4806-93ee-5343c6e615e8",
+            "Value": {
+                "id": "8c1f1f1a-662a-4e4c-b77c-9dc2894a3605",
+                "resourcePath": "objects\\oDragonButton\\oDragonButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "64adf618-56ec-424f-a211-b3aeed0ba9ad",
+            "Value": {
+                "id": "f5a3f26c-25c4-41cb-8dfb-4935e2b48c23",
+                "resourcePath": "sprites\\sTextfield\\sTextfield.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "665bd5a6-8780-4878-b03a-2e80f379f321",
             "Value": {
                 "id": "05193609-2942-4b4d-9510-10807dc0be9a",
@@ -276,6 +292,14 @@
                 "id": "85144e46-372f-4a8b-8399-48405a602cfe",
                 "resourcePath": "sprites\\sDragonGallerySOLVED\\sDragonGallerySOLVED.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6e1f5dce-9cf0-4fd5-9acd-0e2045648b67",
+            "Value": {
+                "id": "864fdabf-75e3-4179-ad65-14e95b42aa59",
+                "resourcePath": "objects\\oGameManager\\oGameManager.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -371,6 +395,14 @@
             "Value": {
                 "id": "5022f421-7701-4e29-a239-fc721bf1e938",
                 "resourcePath": "sprites\\sDragonBG3\\sDragonBG3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "83d88024-0826-43e9-b557-df18eeac88b8",
+            "Value": {
+                "id": "8506b1ef-8076-49f9-95f5-4eb250234ba0",
+                "resourcePath": "sprites\\sButton\\sButton.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -572,6 +604,14 @@
                 "id": "acbba0a5-f511-4448-94a3-971a56aac56b",
                 "resourcePath": "sprites\\sDragonGallery\\sDragonGallery.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c2a74aae-1d1f-43a4-b804-f58fa9771a11",
+            "Value": {
+                "id": "1f1580b3-6635-435c-9850-49e36cac9c72",
+                "resourcePath": "objects\\oJellyButton\\oJellyButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {

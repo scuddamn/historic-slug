@@ -6,9 +6,3 @@ if (string_length(keyboard_string)<limit)
 else
     keyboard_string = message;
 	
-if (keyboard_string == "luck") {
-     // what to do if the text is right
-	 //ADD CUTSCENE HERE
-} else {
-     // what to do if the text is wrong
-}

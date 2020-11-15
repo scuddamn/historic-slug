@@ -1,28 +1,28 @@
 {
-    "id": "8815a849-fc6e-41ab-a88f-74070b7f357c",
+    "id": "64142934-2b0e-4806-93ee-5343c6e615e8",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oRayGallery",
+    "name": "oDragonButton",
     "eventList": [
         {
-            "id": "fe89cf8e-9c40-484a-9a3b-2ba1c3a39735",
+            "id": "e7045e38-67be-40bc-a5ee-bbb729e65c34",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 4,
             "eventtype": 6,
-            "m_owner": "8815a849-fc6e-41ab-a88f-74070b7f357c"
+            "m_owner": "64142934-2b0e-4806-93ee-5343c6e615e8"
         },
         {
-            "id": "f46662f4-47ba-4627-8d60-cca59b763014",
+            "id": "7d02cc42-ce45-4eb9-ac2f-0cf389033b9a",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "8815a849-fc6e-41ab-a88f-74070b7f357c"
+            "m_owner": "64142934-2b0e-4806-93ee-5343c6e615e8"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "23bb662a-dcbc-4d45-8251-e4878850de74",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
