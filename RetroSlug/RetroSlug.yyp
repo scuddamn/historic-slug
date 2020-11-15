@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "215bd6ac-7681-4ca2-a08e-101609529121",
+            "Value": {
+                "id": "52862dc8-556b-4093-a53c-435f98833280",
+                "resourcePath": "rooms\\rJelly\\rJelly.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "258cf735-7302-46f5-8448-d8a64623dedd",
             "Value": {
                 "id": "85a4bdb9-ecca-4fed-8213-384944788d9b",
@@ -103,6 +111,14 @@
             }
         },
         {
+            "Key": "344b5a1f-6403-4077-bcea-c59ddd3aadb1",
+            "Value": {
+                "id": "a7f03327-0071-47dc-9bda-ca0c9d2556b1",
+                "resourcePath": "sprites\\sJellyBG3\\sJellyBG3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3c5ce099-5853-4314-bcba-52ced60c680c",
             "Value": {
                 "id": "d65238c6-75f7-42e3-b577-1cad00cc7189",
@@ -111,11 +127,27 @@
             }
         },
         {
+            "Key": "416d279d-1388-492d-aafd-29a5af097fce",
+            "Value": {
+                "id": "ac584df0-807e-41b7-9dbb-983df8f95ce3",
+                "resourcePath": "sprites\\sJellyBG6\\sJellyBG6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "45c5cfd5-d60f-4f20-b1ca-e0f1bc965c7d",
             "Value": {
                 "id": "937116d4-4e9a-4106-b59e-649a6e9a674a",
                 "resourcePath": "views\/45c5cfd5-d60f-4f20-b1ca-e0f1bc965c7d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "49296c9b-7a6a-4b33-aa66-808a0f691fd7",
+            "Value": {
+                "id": "56a6b0c8-4e4f-4179-8fbf-eb5f3d5034ca",
+                "resourcePath": "objects\\oJellyGallery\\oJellyGallery.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -399,11 +431,35 @@
             }
         },
         {
+            "Key": "e72e47f4-62fe-4047-972c-9e958e01f36e",
+            "Value": {
+                "id": "03a969d4-6e44-4749-b9aa-eb659bf5eac3",
+                "resourcePath": "sprites\\sJellyBG2\\sJellyBG2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "eb7ef4b9-84ff-4dc3-8c9c-1bf8ea03d619",
+            "Value": {
+                "id": "bf2b14fe-117e-4e48-b87d-b965e6ec39f7",
+                "resourcePath": "sprites\\sJellyBG1\\sJellyBG1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ee28f9dc-68eb-45a5-a573-3ea9f0e852d9",
             "Value": {
                 "id": "12befaa7-21ff-446b-b0e0-d70f169b73e5",
                 "resourcePath": "objects\\oFullScreenButton\\oFullScreenButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f3b3b392-5866-4e89-af58-9b0b7689dcc6",
+            "Value": {
+                "id": "88445b86-eb3c-4346-bad8-79062b10660b",
+                "resourcePath": "sprites\\sJellyBG4\\sJellyBG4.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -419,6 +475,14 @@
             "Value": {
                 "id": "d3b77b95-b2d5-4b89-92fa-847cd2bdb98c",
                 "resourcePath": "sprites\\sContract\\sContract.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fc572c82-b838-4bdf-9e5e-3f4b3d02b2a8",
+            "Value": {
+                "id": "5fc075c2-fec2-457f-b8af-17a93597dd16",
+                "resourcePath": "sprites\\sJellyBG5\\sJellyBG5.yy",
                 "resourceType": "GMSprite"
             }
         }
