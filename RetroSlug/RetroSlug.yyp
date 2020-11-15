@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "2255ca44-a7bb-4b85-adc2-1a0ecb5c8397",
+            "Value": {
+                "id": "a7d95fdd-e48c-48fe-b468-b8721366bb90",
+                "resourcePath": "rooms\\rDragon\\rDragon.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "258cf735-7302-46f5-8448-d8a64623dedd",
             "Value": {
                 "id": "85a4bdb9-ecca-4fed-8213-384944788d9b",
@@ -319,6 +327,14 @@
             }
         },
         {
+            "Key": "835508c7-d23c-4b6b-9071-8462f3adb38b",
+            "Value": {
+                "id": "5022f421-7701-4e29-a239-fc721bf1e938",
+                "resourcePath": "sprites\\sDragonBG3\\sDragonBG3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
             "Value": {
                 "id": "c9df8b17-58a1-43a2-8bde-d48a4ae25c48",
@@ -332,6 +348,14 @@
                 "id": "e54f197e-72a3-4d7a-a013-3f5ff2a1cb71",
                 "resourcePath": "objects\\oRayGallery\\oRayGallery.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8e357327-7fc1-46ad-aff5-e112e44638cf",
+            "Value": {
+                "id": "76aee638-8363-41a0-82b6-a7a606c5d9fa",
+                "resourcePath": "sprites\\sDragonBG1\\sDragonBG1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -359,6 +383,14 @@
             }
         },
         {
+            "Key": "9dc861c0-fec4-4acf-ae58-654ad5672b61",
+            "Value": {
+                "id": "01973c60-68f7-455e-8227-c41fca41d251",
+                "resourcePath": "sprites\\sDragonBG4\\sDragonBG4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a06d4e38-9a9d-4869-b4f2-69ac11698a83",
             "Value": {
                 "id": "d50fd3eb-d635-47af-828b-fec56ea521c7",
@@ -379,6 +411,14 @@
             "Value": {
                 "id": "08dbea7c-01da-455f-b9a9-31f62e092cf5",
                 "resourcePath": "sprites\\sRayBG5\\sRayBG5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a62c13e3-cea1-4ec7-81fe-ddfac71c6731",
+            "Value": {
+                "id": "080a70f9-bc63-4d10-a465-e29caf412b28",
+                "resourcePath": "sprites\\sDragonBG2\\sDragonBG2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -644,6 +684,14 @@
                 "id": "d3b77b95-b2d5-4b89-92fa-847cd2bdb98c",
                 "resourcePath": "sprites\\sContract\\sContract.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f8a7b324-d198-4956-8a91-52c832a24d3a",
+            "Value": {
+                "id": "314a7700-2d12-4976-9ca0-be9af15f2f82",
+                "resourcePath": "objects\\oDragonGallery\\oDragonGallery.yy",
+                "resourceType": "GMObject"
             }
         },
         {
