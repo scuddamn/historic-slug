@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "19e9b22f-1f37-4d2d-97ba-82df60c8b460",
+            "Value": {
+                "id": "bdff5ab2-8e5e-4be5-8e5f-22cc0442d490",
+                "resourcePath": "sprites\\sRayBG6\\sRayBG6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "215bd6ac-7681-4ca2-a08e-101609529121",
             "Value": {
                 "id": "52862dc8-556b-4093-a53c-435f98833280",
@@ -108,6 +116,14 @@
                 "id": "aec4677f-860c-4502-aa2b-b67478a01c65",
                 "resourcePath": "objects\\oTransition\\oTransition.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "30c34fb4-143f-45c0-b8a3-f8f1b3267db2",
+            "Value": {
+                "id": "71405c4b-a32f-44b5-8ea4-bf06526b781d",
+                "resourcePath": "sprites\\sRayBG7\\sRayBG7.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -255,6 +271,14 @@
             }
         },
         {
+            "Key": "762eb4a9-ce5f-4bb6-8c31-d0f0d970aa98",
+            "Value": {
+                "id": "22530a3a-6c6f-4411-9e08-7cc7d44b09fa",
+                "resourcePath": "sprites\\sRayBG4\\sRayBG4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7763d0f1-c2f9-4f99-bd56-d8a26604d19b",
             "Value": {
                 "id": "8bc1944a-b9e7-4d27-8a21-3d2de21cdaa1",
@@ -303,6 +327,22 @@
             }
         },
         {
+            "Key": "8815a849-fc6e-41ab-a88f-74070b7f357c",
+            "Value": {
+                "id": "e54f197e-72a3-4d7a-a013-3f5ff2a1cb71",
+                "resourcePath": "objects\\oRayGallery\\oRayGallery.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8f265685-4762-4b4c-b981-78e46f8f5177",
+            "Value": {
+                "id": "e34b6613-f1d3-4ee3-8682-7fc8246cdb31",
+                "resourcePath": "sprites\\sRayBG1\\sRayBG1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
             "Value": {
                 "id": "edb3eccd-1771-4283-ae85-d06da10ffaa0",
@@ -335,6 +375,14 @@
             }
         },
         {
+            "Key": "a1c7bdfb-975b-4e31-8230-20eedd019b6c",
+            "Value": {
+                "id": "08dbea7c-01da-455f-b9a9-31f62e092cf5",
+                "resourcePath": "sprites\\sRayBG5\\sRayBG5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "fdda3c0a-f88e-4629-a154-c0c57db7279b",
@@ -355,6 +403,22 @@
             "Value": {
                 "id": "528161ed-17ea-4978-bd5c-bc0d2f25724c",
                 "resourcePath": "sprites\\sSquidBG7\\sSquidBG7.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "af0f96e5-2c90-4e61-b502-c18868b64d9a",
+            "Value": {
+                "id": "3fa38f55-cb2e-4467-9bef-7445f51486e9",
+                "resourcePath": "rooms\\rRays\\rRays.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "b25f12c4-8815-4ab5-839b-849cf190b82e",
+            "Value": {
+                "id": "ea6023ae-0891-4355-ac51-e521c90d8c1d",
+                "resourcePath": "sprites\\sRayBG3\\sRayBG3.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -527,11 +591,27 @@
             }
         },
         {
+            "Key": "ec2006d2-4cc8-4535-aa38-e822338eca97",
+            "Value": {
+                "id": "a115b5ae-eb1d-4f65-8909-75c29b5d3fc3",
+                "resourcePath": "sprites\\sRayBG8\\sRayBG8.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ee28f9dc-68eb-45a5-a573-3ea9f0e852d9",
             "Value": {
                 "id": "12befaa7-21ff-446b-b0e0-d70f169b73e5",
                 "resourcePath": "objects\\oFullScreenButton\\oFullScreenButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f05a74a1-9ab6-4b0c-8b46-d17448e3cf8a",
+            "Value": {
+                "id": "33c8c31e-85a2-4cec-829a-e4d2f6bd9d5c",
+                "resourcePath": "sprites\\sRayBG2\\sRayBG2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
