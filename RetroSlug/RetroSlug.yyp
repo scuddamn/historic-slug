@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "01dd986b-ccf0-4182-baa8-90ad4c00003d",
+            "Value": {
+                "id": "31b68451-6f30-4eca-bfd6-0465983cba95",
+                "resourcePath": "sprites\\sSquidBG3\\sSquidBG3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "05cd20c9-1927-415a-a8ce-84817d2b4988",
             "Value": {
                 "id": "a3412c45-c66e-4d64-97e4-748b795e0bf1",
@@ -103,11 +111,27 @@
             }
         },
         {
+            "Key": "31d8471b-8667-4dcc-b443-cd132a5a104f",
+            "Value": {
+                "id": "3112dd5d-4c91-4414-a733-ae027dd4d25d",
+                "resourcePath": "objects\\oSquidGallery\\oSquidGallery.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "32a364dd-5bb2-401a-a8e0-9f84190bebf5",
             "Value": {
                 "id": "7aca63df-ba00-4368-9c99-cc3589671b73",
                 "resourcePath": "objects\\oTextfield2\\oTextfield2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "339cdf57-1ff5-411f-acac-1d701d239d6e",
+            "Value": {
+                "id": "aa0757cd-57ff-406b-a5a6-c75d6d7ab6b1",
+                "resourcePath": "rooms\\rSquid\\rSquid.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -159,6 +183,14 @@
             }
         },
         {
+            "Key": "4d5ec25d-432d-43a6-befb-3e5d1d3ddf75",
+            "Value": {
+                "id": "cffe934c-9eb6-481b-9bf0-c16d50e48e2c",
+                "resourcePath": "sprites\\sSquidBG5\\sSquidBG5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "554335e1-4ff0-49c8-bff6-cb760c6eba52",
             "Value": {
                 "id": "4a777ff4-8832-462f-b30b-f5646dc26dcb",
@@ -207,11 +239,27 @@
             }
         },
         {
+            "Key": "757f7293-2258-48cb-a04c-0ef58cc23a91",
+            "Value": {
+                "id": "f6dab538-c98f-4246-985a-362648256dad",
+                "resourcePath": "sprites\\sSquidBG4\\sSquidBG4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "d1eddc79-c654-4f03-b414-1216abbc9074",
                 "resourcePath": "options\/html5\/options_html5.yy",
                 "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "7763d0f1-c2f9-4f99-bd56-d8a26604d19b",
+            "Value": {
+                "id": "8bc1944a-b9e7-4d27-8a21-3d2de21cdaa1",
+                "resourcePath": "sprites\\sSquidBG9\\sSquidBG9.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -263,6 +311,14 @@
             }
         },
         {
+            "Key": "996a8ac7-4fe9-4e0c-aa58-a0f5aac9ef1b",
+            "Value": {
+                "id": "ba7bf13a-33e8-45ba-b042-3207afbaeb60",
+                "resourcePath": "sprites\\sSquidBG2\\sSquidBG2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a06d4e38-9a9d-4869-b4f2-69ac11698a83",
             "Value": {
                 "id": "d50fd3eb-d635-47af-828b-fec56ea521c7",
@@ -295,6 +351,14 @@
             }
         },
         {
+            "Key": "ab5ff07f-6701-4ded-b643-42064cc0bf5d",
+            "Value": {
+                "id": "528161ed-17ea-4978-bd5c-bc0d2f25724c",
+                "resourcePath": "sprites\\sSquidBG7\\sSquidBG7.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b3be1f84-53ce-453b-89c3-fa5166b71cb9",
             "Value": {
                 "id": "6a809e28-059f-4d84-8d5a-f4f4c63a3f9f",
@@ -319,11 +383,27 @@
             }
         },
         {
+            "Key": "bb9879d8-c937-4d6b-af42-ff62f504ee04",
+            "Value": {
+                "id": "6b31a7c1-d350-43f2-8dc4-d3349e02b594",
+                "resourcePath": "sprites\\sSquidBG1\\sSquidBG1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c46ef62c-e019-40ff-b2fd-025e3f970195",
             "Value": {
                 "id": "d0abffaa-67c4-43e4-a387-2d60e23084ce",
                 "resourcePath": "views\/c46ef62c-e019-40ff-b2fd-025e3f970195.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c5d46132-3d80-47bc-abe4-017a609fee3e",
+            "Value": {
+                "id": "596f02f7-d780-4487-9769-c4ec194a8f9b",
+                "resourcePath": "sprites\\sSquidBG6\\sSquidBG6.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -452,6 +532,14 @@
                 "id": "12befaa7-21ff-446b-b0e0-d70f169b73e5",
                 "resourcePath": "objects\\oFullScreenButton\\oFullScreenButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f2531216-fbd1-4dcd-b343-594219fce9a2",
+            "Value": {
+                "id": "e19a5104-3ee3-446e-b077-164874d783c8",
+                "resourcePath": "sprites\\sSquidBG8\\sSquidBG8.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
