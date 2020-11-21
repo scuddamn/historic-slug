@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "151eef85-0b8e-47d9-89fb-728006b9f679",
+            "Value": {
+                "id": "dcff2183-7ead-4ed6-9fcf-044d08dce464",
+                "resourcePath": "sprites\\sEyeHitbox\\sEyeHitbox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "19e9b22f-1f37-4d2d-97ba-82df60c8b460",
             "Value": {
                 "id": "bdff5ab2-8e5e-4be5-8e5f-22cc0442d490",
@@ -479,6 +487,14 @@
             }
         },
         {
+            "Key": "81dbb5bd-ad3f-4b56-8f11-ba3799be7476",
+            "Value": {
+                "id": "95580e32-958b-40b4-8073-e4658601ffa7",
+                "resourcePath": "objects\\oEyeHitbox\\oEyeHitbox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "825ae108-25ff-467b-b2fb-040114a24394",
             "Value": {
                 "id": "16ec334f-019a-4be3-bfb8-cca6194cc097",
@@ -772,6 +788,14 @@
                 "id": "090f15da-b2cc-4e36-b8ed-b8f3b1de1e60",
                 "resourcePath": "fonts\\fMenu\\fMenu.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "cc38e211-402f-4c0a-af7b-76cf05e38b19",
+            "Value": {
+                "id": "a0ee260b-d871-444e-9099-fde958c8eaf6",
+                "resourcePath": "objects\\oSquidObscure\\oSquidObscure.yy",
+                "resourceType": "GMObject"
             }
         },
         {
