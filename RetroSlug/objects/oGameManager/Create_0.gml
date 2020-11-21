@@ -8,6 +8,5 @@ global.RaySolved = false;
 global.SlugSolved = false;
 
 if global.JellySolved = true {
-	part_system_destroy(global.P_System);
-	part_system_destroy(global.P_System2);
+	layer_destroy(global.JellyPartLayer);
 }
