@@ -7,6 +7,3 @@ global.DragonSolved = false;
 global.RaySolved = false;
 global.SlugSolved = false;
 
-if global.JellySolved = true {
-	layer_destroy(global.JellyPartLayer);
-}
