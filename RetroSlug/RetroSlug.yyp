@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "2e135a0b-af01-4f4c-8aa9-002afff261f4",
+            "Value": {
+                "id": "83209648-08ee-49fb-9e96-f462327e8342",
+                "resourcePath": "objects\\oDragonParticleEmitter\\oDragonParticleEmitter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2fc0ab7a-6bc6-4800-b8b5-97fed3824c3b",
             "Value": {
                 "id": "aec4677f-860c-4502-aa2b-b67478a01c65",

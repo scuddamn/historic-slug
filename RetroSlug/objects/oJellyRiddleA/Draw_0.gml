@@ -5,4 +5,4 @@ draw_text_colour(x, y, "I am something neither planted nor plowed...", c_black, 
 
 
 //\nI am the son of water, but if water touches me, I die. \nWhat am I?"
-//FULL RIDDE:I live in the deep deep dark, but I have no spine, and I have no heart.
+//FULL RIDDLE:I live in the deep deep dark, but I have no spine, and I have no heart.
