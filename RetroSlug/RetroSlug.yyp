@@ -583,6 +583,14 @@
             }
         },
         {
+            "Key": "9359b78b-c39a-46ad-8fde-b6470509cc63",
+            "Value": {
+                "id": "27fd3ef3-6d85-4bac-91fc-4ec58f0be324",
+                "resourcePath": "objects\\oSquidSmokeEmitter\\oSquidSmokeEmitter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9747865c-0e63-405f-b46e-37c1abf5c3db",
             "Value": {
                 "id": "09217c7f-cf48-4dfe-9f9e-a7ce6970d89f",

@@ -26,7 +26,7 @@ if global.DragonSolved = false {
 
 
 	//Use an emitter to stream particles...
-	part_emitter_stream(global.P_System, global.Particle1_Emitter1, global.Particle1, 400);
+	part_emitter_stream(global.DragonP_System, global.DragonParticle1_Emitter1, global.DragonParticle1, 400);
 
 	//Set alarm to burst particles...
 	alarm[0] = 30;
