@@ -1023,6 +1023,14 @@
             }
         },
         {
+            "Key": "faf2cb1a-12c1-4e72-88ef-149feb9fa9d6",
+            "Value": {
+                "id": "85298b7c-4b0d-4634-8a45-6c47c422abf4",
+                "resourcePath": "objects\\oSquidButton\\oSquidButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "fc572c82-b838-4bdf-9e5e-3f4b3d02b2a8",
             "Value": {
                 "id": "5fc075c2-fec2-457f-b8af-17a93597dd16",
