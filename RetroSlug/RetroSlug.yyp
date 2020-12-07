@@ -767,6 +767,14 @@
             }
         },
         {
+            "Key": "c01d9bac-af89-4272-8cb2-270c15d1e024",
+            "Value": {
+                "id": "a0dcbeb9-5904-457b-a181-fac06efe6e70",
+                "resourcePath": "objects\\oBubbleEmitter\\oBubbleEmitter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c2a74aae-1d1f-43a4-b804-f58fa9771a11",
             "Value": {
                 "id": "1f1580b3-6635-435c-9850-49e36cac9c72",
